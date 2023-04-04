@@ -2,7 +2,7 @@
 
 ## Nível: Intermediário
 
-### Manifesto
+### Manifestos
 
  Criar uma interface GUI adotando a ferramenta Tkinter para gerenciar a entrada e saída de dados simulando uma carteira digital. Este desafio apenas serve como prática para estudos em python, a venda ou qualquer outra prática atribuida a este material é PROIBIDA. Este material tem o propósito para fins didático, qualquer vinculação ou associação não será permitida pelo autor.
 
