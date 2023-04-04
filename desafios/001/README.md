@@ -1,4 +1,4 @@
-# Desafio - Carteira Digital
+# Carteira Digital
 
 ## Nível: Intermediário
 
@@ -11,7 +11,7 @@ O nome da moeda digital será krypta, sendo esta uma definição de moeda para o
  O projeto é baseado em uma carteira digital que deve armazenar e somar as tais kryptas para simular operações eletrônicas mockadas de compra e venda para "tickets" ou "ingressos de eventos". O projeto deve armazenar os valores em NoSQL sem suporte a RDBMS.
 
 ```text
-Conversão de valore krypta
+Conversão
 
 krypta| Moeda local
 0.025 | 1,50
