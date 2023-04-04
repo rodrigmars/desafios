@@ -1,4 +1,4 @@
-# Desafio - Monta a sua Carteira Digital
+# Desafio - Carteira Digital
 
 ## Nível: Intermediário
 
