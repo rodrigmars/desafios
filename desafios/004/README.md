@@ -26,8 +26,20 @@
 
     - Verificar se xeque_mate é True
 
+## Regras
+
+- Construir projeto utilizando o compilador python 3.11.2
+- Virtualizar projeto com a ferramenta **venv**
+  >A execução deste passo é essencial para o projeto.
+  
+- Adotar biblioteca pytest para execução dos testes
+- O projeto deve contemplar uma estrutura de testes usando *Test Driven Development (TDD)*
+- Gerar arquivo *requirements.txt* para instalação das bibliotecas conforme a sessão [Tecnologias](Tecnologias)
+- Disponibilizar projeto no *github*
+
 ## Tecnologias
 
 - python 3.11.2
 - pytest
 - pylint
+- autopep8
