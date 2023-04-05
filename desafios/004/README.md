@@ -2,21 +2,29 @@
 
 ## Manifesto
 
-> Enredo: A Matrix está sorteando em seu sistema quais humanos serão removidos para o processo de limpeza denominado **xeque_mate**. Morpheus e seus aliados tem como missão interceptar a lista de **red_pills** e impedir que o expurgo seja executado pelos agentes.
+> Enredo: A Matrix está selecionando em seu sistema quais humanos serão eliminados conforme uma rotina denominado **xeque_mate**. *Morpheus e seus aliados* tem como missão interceptar a lista de *red_pills* e impedir que o expurgo seja executado pelos *agentes*.
 
 ### Desafio
 
-Com base neste enredo, desenvolva um programa para geração de lista e algorítmo de seleção aleatória. Identicar os nomes selecionados conforme algoritmo de seleção e removê-los da lista **red_pills**.
+*Resumo*: Com base neste pequeno enredo, desenvolva um programa contendo uma lista e um algorítmo de seleção para identicar 7 nomes na lista e removê-los.
 
-1. Criar um objeto lista com o nome **red_pills** de tamanho 10 contendo os seguintes elementos: [nome, data de nascimento, sexo].
+1. Criar um objeto lista com o nome *red_pills* de tamanho 10 contendo os seguintes elementos: [nome, data de nascimento, sexo].
 
-2. Desenvolver função para sortear quais nomes serão selecionadas na lista **red_pills** para o **xeque_mate**.
+2. Desenvolva uma função para retornar 7 nomes aleatórios da lista red_pills.
 
-3. Identificar quais nomes foram sorteados e removê-los da lista **red_pills**.
+3. Criar função para identificar os nomes selecionados e removê-los da lista red_pills.
 
-4. Notificar os agentes utilizando um estado **xeque_mate** do *tipo booleano*, informando que a limpeza foi executada conforme planejado pelo arquiteto.
+4. Criar variável *xeque_mate* do tipo booleano, para notificar que ação de limpeza foi executada.
 
-5. A execução do programa deve partir de um módulo de testes de unidade para validar o retorno de **xeque_mate**.
+5. A execução do programa deve partir de um módulo de testes de unidade para as seguintes validações:
+
+    - Validar número total de elementos selecionados na lista subtraindo com o size da lista original
+
+    - Validar quais nomes foram selecionados na lista
+
+    - Validar a exclusão de nomes da lista
+
+    - Verificar se xeque_mate é True
 
 ## Tecnologias
 
