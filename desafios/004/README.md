@@ -34,7 +34,7 @@
   
 - Adotar biblioteca pytest para execução dos testes
 - O projeto deve contemplar uma estrutura de testes usando *Test Driven Development (TDD)*
-- Gerar arquivo *requirements.txt* para instalação das bibliotecas conforme a sessão [Tecnologias](Tecnologias)
+- Gerar arquivo *requirements.txt* para instalação das bibliotecas conforme a sessão [Tecnologias](#tecnologias)
 - Disponibilizar projeto no *github*
 
 ## Tecnologias
