@@ -4,6 +4,8 @@
 
 > Enredo: A Matrix está sorteando em seu sistema quais humanos serão removidos para o processo de limpeza denominado **xeque_mate**. Morfeus e sua equipe tem como missão interceptar a lista de **red_pills** e impedir que o expurgo seja executado pelos agentes.
 
+### Desafio
+
 Com base neste enredo, desenvolva um programa para geração de lista e algorítmo de seleção aleatória. Identicar os nomes selecionados conforme algoritmo de seleção e removê-los da lista **red_pills**.
 
 1. Criar um objeto lista com o nome **red_pills** de tamanho 10 contendo os seguintes elementos: [nome, data de nascimento, sexo].
