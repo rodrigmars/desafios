@@ -28,6 +28,6 @@
 
 ## Tecnologias
 
-* python 3.11.2
-* pytest
-* pylint
+- python 3.11.2
+- pytest
+- pylint
