@@ -2,7 +2,7 @@
 
 ## Manifesto
 
-> Enredo: A Matrix está sorteando em seu sistema quais humanos serão removidos para o processo de limpeza denominado **xeque_mate**. Morfeus e sua equipe tem como missão interceptar a lista de **red_pills** e impedir que o expurgo seja executado pelos agentes.
+> Enredo: A Matrix está sorteando em seu sistema quais humanos serão removidos para o processo de limpeza denominado **xeque_mate**. Morpheus e seus aliados tem como missão interceptar a lista de **red_pills** e impedir que o expurgo seja executado pelos agentes.
 
 ### Desafio
 
